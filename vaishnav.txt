@@ -1,0 +1,20 @@
+
+
+		keyFinder
+
+	1.playing character -> man movetop,bottom,right and left
+	2. Non playing characters -> dogs framecountts and wolf 
+	3. 3 chances
+	4. complexity of game will increase with time
+	5. man should have the key to open the door
+	6. maze
+	7. 
+
+1 class 
+	1.creating the maze
+2 class
+	1. create the players and the non players
+3 class.
+	key and the door
+4 class.
+	animations and sounds
